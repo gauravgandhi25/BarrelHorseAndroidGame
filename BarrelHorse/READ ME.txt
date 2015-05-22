@@ -1,0 +1,10 @@
+Project Is Developed By
+**************************************
+
+GAURAV GANDHI gmg140230
+
+------------------------------------
+
+Import Project In Eclipse. It is ready to run.
+
+Installable apk file for smartphones is in "BarrelHorse/bin" directory.
